@@ -10,6 +10,11 @@
   <b>✨ This is The One Of Best & Powerful Bot Spam In Telegram Based On Pyrogram ✨</b>
 </h6>
 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAgora/BotSpam"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
 
 ![](https://img.shields.io/badge/BotSpam→V1.0-blue)
 
