@@ -1,7 +1,7 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy",
-    "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
+    "name": "TeamAgoraSpamBot",
+    "description": "Spamming Bot Made By MR Agora",
+    "logo": "https://graph.org/file/27678adec2911baf8d057.jpg",
     "keywords": [
         "telegram",
         "pyrogram",
@@ -9,9 +9,9 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-AI/BOTSPAM",
-    "website": "https://t.me/LegendBot_Owner",
-    "success_url": "https://t.me/LegendBot_Owner",
+    "repository": "https://github.com/TeamAgora/BotSpam",
+    "website": "https://t.me/teamagora",
+    "success_url": "https://t.me/Agoraworld",
     "env": {       
         "ENV": {
             "description": "dont edit this",
@@ -143,7 +143,7 @@
         },
         "SUDO_USERS": {
             "description": "Owner Id Get It From start @missrose_bot , then do /id",
-            "value": ""        
+            "value": "6181817811"        
         },
         "HANDLER": {
             "description": "HANDLER",
