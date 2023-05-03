@@ -40,14 +40,14 @@ except Exception:
 
 START_MESSAGE = getenv(
     "START_MESSAGE",
-    "This is a Powerful Bot Spam Made By [PAPA JI](https://t.me/kannadigaXD)",
+    "This is a Powerful Bot Spam Made By [PAPA JI](https://t.me/MR_AGORA)",
 )
 
-PING_PIC = getenv("PING_PIC", "https://telegra.ph/file/8ea21b4a36e8a2ecbd849.jpg")
+PING_PIC = getenv("PING_PIC", "https://graph.org/file/27678adec2911baf8d057.jpg")
 
-START_PIC = getenv("START_PIC", "https://telegra.ph/file/8ea21b4a36e8a2ecbd849.jpg")
+START_PIC = getenv("START_PIC", "https://graph.org/file/27678adec2911baf8d057.jpg")
 
-HELP_PIC = getenv("HELP_PIC", "https://telegra.ph/file/8ea21b4a36e8a2ecbd849.jpg")
+HELP_PIC = getenv("HELP_PIC", "https://graph.org/file/27678adec2911baf8d057.jpg")
 LOG_CHANNEL = getenv("LOG_CHANNEL", None)
 
 HANDLER = getenv("HANDLER", "/")
