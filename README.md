@@ -85,7 +85,7 @@ Required Variable | Description
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+Heroku+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
-- [![Deploy](https://dashboard.heroku.com/new-app?template=https://github.com/TeamAgora/BotSpam)](https://heroku.com/deploy)
+- [![ DEPLOY TO HEROKU ](https://dashboard.heroku.com/new-app?template=https://github.com/TeamAgora/BotSpam)](https://heroku.com/deploy)
 
 -------
 
