@@ -14,7 +14,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAgora/BotSpam"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AloneXBot/BotSpam"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
 
 ![](https://img.shields.io/badge/BotSpam→V1.0-blue)
 
